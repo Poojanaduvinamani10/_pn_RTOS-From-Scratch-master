@@ -1,2 +1,14 @@
-# _pn_RTOS-From-Scratch-master
-This project implements an RTOS from scratch in C, featuring task scheduling, context switching, delays, and basic synchronization. It demonstrates how low-level kernel components work on embedded systems, offering a clean, modular, and educational foundation for RTOS development.
+[![license](https://img.shields.io/badge/License-GPL3-blue.svg)](https://www.gnu.org/copyleft/gpl.html)
+[![Testing](https://img.shields.io/badge/Tested%20on-Linux-red.svg)]()
+
+# RTOS-From-Scratch
+Real time operating system made with love ♥.
+
+### Instructions:
+To get clone this repo you need to do so:
+- `git clone https://github.com/RTOS-From-Scratch/RTOS-From-Scratch.git`
+- `git submodule init`
+- `git submodule update`
+
+## Note:
+- This system is still in `Pre-Alpha` state.

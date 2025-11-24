@@ -1,0 +1,16 @@
+
+[submodule "Kernel"]
+	path = Kernel
+	url = https://github.com/RTOS-From-Scratch/Kernel
+[submodule "DataStructures"]
+	path = DataStructures
+	url = https://github.com/RTOS-From-Scratch/DataStructures
+[submodule "Drivers"]
+	path = Drivers
+	url = https://github.com/RTOS-From-Scratch/Drivers
+[submodule "Misc"]
+	path = Misc
+	url = https://github.com/RTOS-From-Scratch/Misc
+[submodule "FileSystem"]
+	path = FileSystem
+	url = https://github.com/RTOS-From-Scratch/FileSystem
